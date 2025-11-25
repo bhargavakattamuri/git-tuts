@@ -11,14 +11,4 @@ Port	         80	                                443
 Security Risk	No protection; data readable by others	Secure, trusted, tamper-resistant
 Use Case	Public, non-sensitive information	Forms, login, payments, APIs, user data
 
-16/06
-
- I created the merge request for the duplicate zone name and zone code entry logic. I also reviewed and analyzed the API calls provided by Pushpanjali ma'am."
-
-17/06
-
-enhancement
-
-30/6
-
-On Friday, I spoke with Ashish sir and received the database for the API. I also discussed it in detail with Shivam.
+Old Book
