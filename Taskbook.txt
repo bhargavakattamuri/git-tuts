@@ -1,0 +1,24 @@
+My Learning & Progress
+--------------------------
+12/06
+Yesterday, I implemented logic to prevent duplicate entries of zone code and zone name for Plant, and completed testing across all scenarios.
+13/06
+Sir, I need leave for three days: next week Friday, and the week after on Monday and Tuesday(June 20,23&24). My family has planned a Devotional trip to Shirdi in Maharashtra, and I will be going along with them. I am informing you now to get your confirmation
+
+Aspect	          HTTP	                                 HTTPS
+Encryption	None – plaintext                  	TLS/SSL encrypted
+Port	         80	                                443
+Security Risk	No protection; data readable by others	Secure, trusted, tamper-resistant
+Use Case	Public, non-sensitive information	Forms, login, payments, APIs, user data
+
+16/06
+
+ I created the merge request for the duplicate zone name and zone code entry logic. I also reviewed and analyzed the API calls provided by Pushpanjali ma'am."
+
+17/06
+
+enhancement
+
+30/6
+
+On Friday, I spoke with Ashish sir and received the database for the API. I also discussed it in detail with Shivam.
